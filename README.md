@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padillest
-- 👀 I’m interested in behavioural data science
-- 🌱 I’m currently learning tkinter
+- 👀 I’m interested in Bayesian statistics and machine learning
+- 🌱 I’m currently learning Java and DSA
 - 📫 How to reach me? Via email! dennis.padilla00@gmail.com
 
 <!---
