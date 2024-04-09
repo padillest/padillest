@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @padillest
 - 👀 I’m interested in Bayesian statistics and machine learning
-- 🌱 I’m currently learning Java and DSA
 - 📫 How to reach me? Via email! dennis.padilla00@gmail.com
 
 <!---
